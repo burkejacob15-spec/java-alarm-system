@@ -1,6 +1,6 @@
 # Multithreaded Alarm Clock
 
-A Java-based alarm clock application that uses multithreading to manage countdown timing and audio playback concurrently.
+A Java-based Military time alarm clock application that uses multithreading to manage countdown timing and audio playback concurrently.
 
 ## Features
 - Countdown timer with precise timing
@@ -25,3 +25,8 @@ This ensures the timer remains accurate while the audio plays without blocking t
    git clone https://github.com/burkejacob15-spec/java-alarm-system.git
 2. Open the project in IntelliJ IDEA
 3. Run Main.java
+
+## What I Learned
+- Implementing multithreading in Java
+- Managing concurrent tasks without blocking execution
+- Structuring a Java application for clarity and maintainability
