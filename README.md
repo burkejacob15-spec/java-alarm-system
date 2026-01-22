@@ -22,6 +22,6 @@ This ensures the timer remains accurate while the audio plays without blocking t
 ## How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/multithreaded-alarm-clock.git
+   git clone https://github.com/burkejacob15-spec/java-alarm-system.git
 2. Open the project in IntelliJ IDEA
 3. Run Main.java
